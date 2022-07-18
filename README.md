@@ -1,7 +1,9 @@
 # OoooohGirl!
-*Where did you get that outfit?*
+*Where did you get that outfit??*
 
-You're going to see Beyonce in the metaverse, and you don't want to show in just your default Decentraland outfit. You want to wear something snazzy but don't want to fork over the money to buy. Oohgirl! Rent that outfit instead!
+You're going to see your favorite artist play in the metaverse. Everyone is going to be there, and you don't want to show up in just your default Decentraland outfit. You want to wear something snazzy! But you don't want to fork over the money to buy an outfit.
+
+*Oohgirl! Rent that outfit instead!*
 
 ## How it works
 Designers create catalogs of their products, which include the cost to rent.

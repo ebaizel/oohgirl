@@ -20,6 +20,8 @@ Rentals are ERC721 tokens that get minted when a renter submits a transaction. A
 - Using a service like Superfluid, stream the payments to the designer instead an all-at-once payment at the end.
 
 ## To run the tests
+Requires solidity `0.8.10`.
+
 ```sh
 npm install
 npx hardhat test
